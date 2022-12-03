@@ -1,0 +1,4 @@
+openpyxl
+argparse
+sqlite3
+multiprocessing
